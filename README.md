@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Building the project
 
-make sure to install all the necessary packages before running `ng build`.
+Make sure to install all the necessary packages before running `ng build`.
 
 ## Development server
 
